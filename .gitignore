@@ -1,0 +1,13 @@
+# Build artifacts
+bin/
+obj/
+# Visual Studio cache and settings
+.vs/
+*.user
+*.suo
+# NinjaTrader specific
+*.ntm
+*.nt8
+# Python cache
+__pycache__/
+*.pyc
